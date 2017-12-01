@@ -1,0 +1,1 @@
+WinMove, Microsoft PowerPoint, , -1280, 0 , 2560, 1024

@@ -1,0 +1,1 @@
+﻿actionMan.executeAction 202986266 "32768"  -- Redshift: Redshift object properties

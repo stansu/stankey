@@ -1,0 +1,1 @@
+modPanel.addModToSelection (clone()) ui:on

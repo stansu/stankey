@@ -1,0 +1,1 @@
+modPanel.addModToSelection (Bevel()) ui:on

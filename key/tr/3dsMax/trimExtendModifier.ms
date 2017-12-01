@@ -1,0 +1,1 @@
+modPanel.addModToSelection (Trim_Extend ()) ui:on

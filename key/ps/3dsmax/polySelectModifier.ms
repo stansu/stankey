@@ -1,0 +1,1 @@
+modPanel.addModToSelection (poly_select()) ui:on

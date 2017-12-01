@@ -1,0 +1,1 @@
+modPanel.addModToSelection (Edit_mesh()) ui:on

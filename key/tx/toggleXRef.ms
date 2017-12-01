@@ -1,0 +1,1 @@
+﻿(xrefs.getXRefFile 1).hidden = not (xrefs.getXRefFile 1).hidden

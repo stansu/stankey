@@ -1,0 +1,1 @@
+modPanel.addModToSelection (taper()) ui:on

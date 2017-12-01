@@ -1,0 +1,1 @@
+﻿select (getNodeByName (modPanel.getCurrentObject()).CustomShapeName)

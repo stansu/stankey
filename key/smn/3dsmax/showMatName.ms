@@ -1,0 +1,1 @@
+﻿messagebox (if selection[1].material != undefined then selection[1].material.name else "no material")

@@ -1,0 +1,1 @@
+modPanel.addModToSelection (Vertex_Weld()) ui:on

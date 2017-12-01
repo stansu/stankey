@@ -1,0 +1,1 @@
+try ((NitrousGraphicsManager.GetActiveViewportSetting()).ViewportViewSettingImpl.ShadowsEnabled = off) catch()

@@ -1,0 +1,1 @@
+﻿modPanel.addModToSelection (deletemesh()) ui:on
