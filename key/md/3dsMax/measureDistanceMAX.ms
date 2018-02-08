@@ -13,5 +13,5 @@
 		)
 	)
 	snapMode.active = snapstate
-	print (units.formatValue dist)
+	units.formatValue dist
 )
