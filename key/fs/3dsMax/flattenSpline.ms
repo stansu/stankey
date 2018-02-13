@@ -1,4 +1,3 @@
--- filein "D:\\typeCommand\\commandFiles\\3dsMax\\maxScripts\\minPivot.ms"
 $.pos.z = 0
 for i = $ do
 (

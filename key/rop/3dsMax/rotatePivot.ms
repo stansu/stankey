@@ -1,6 +1,6 @@
 if findparent == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\findParent.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\findParent.ms"
 )
 (
 	op1 = pickpoint prompt:"pick object point 1\n" snap:#3D

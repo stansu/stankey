@@ -4,4 +4,4 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 #SingleInstance, force
 #NoTrayIcon
 DetectHiddenText, Off
-run, D:\stanKey\stanKey.ahk
+run, c:\stankey-master\stanKey.ahk

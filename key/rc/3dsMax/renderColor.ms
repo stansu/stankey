@@ -1,7 +1,7 @@
 (
 	if not getSaveRequired() then
 	(
-		filein "D:\\stanKey\\key\\cdm\\3dsMax\\cleanDoubleMat.ms"
+		filein "c:\\stankey-master\\key\\cdm\\3dsMax\\cleanDoubleMat.ms"
 		setCommandPanelTaskMode #create
 		renderSceneDialog.close()
 		if IsValidNode $LPM_Root do $LPM_Root.fileType = "png"

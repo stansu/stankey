@@ -1,5 +1,5 @@
 (
-	HiddenDOSCommand "D:\\stanKey\\key\\cc\\3dsMax\\ahk\\circleStartEdge.ahk" donotwait:true startpath:"D:\\stanKey\\key\\cc\\3dsMax\\ahk\\"
+	HiddenDOSCommand "c:\\stankey-master\\key\\cc\\3dsMax\\ahk\\circleStartEdge.ahk" donotwait:true startpath:"c:\\stankey-master\\key\\cc\\3dsMax\\ahk\\"
 	fn setCircle n =
 	(
 		n.steps = 1

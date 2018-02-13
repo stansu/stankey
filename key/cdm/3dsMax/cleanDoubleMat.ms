@@ -1,4 +1,4 @@
 -- if (querybox "Delete duplicate material? (Please backup!)") do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\fn_cleanDoubleMat.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\fn_cleanDoubleMat.ms"
 )

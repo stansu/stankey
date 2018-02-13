@@ -8,7 +8,7 @@ CoordMode, ToolTip, Screen
 CoordMode, Pixel, Screen
 #UseHook
 
-stanCodeFolder := "D:\stanKey\key\"
+stanCodeFolder := "c:\stankey-master\key\"
 appType := ""
 appClass := ""
 lastCode := ""

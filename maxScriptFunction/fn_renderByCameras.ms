@@ -7,7 +7,7 @@
 	layerI = LayerManager.count - 1
 	layerS = for i = 0 to layerI collect (LayerManager.getlayer i).on
 	tempArray = for i = (getclassinstances Targetcamera) collect (refs.dependentNodes i)[1]
-	if compareName == undefined do filein "D:\\stanKey\\maxScriptFunction\\compareName.ms"
+	if compareName == undefined do filein "c:\\stankey-master\\maxScriptFunction\\compareName.ms"
 	qsort tempArray compareName
 	for k = tempArray do
 	(

@@ -1,6 +1,6 @@
 if findparent == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\findParent.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\findParent.ms"
 )
 try
 (

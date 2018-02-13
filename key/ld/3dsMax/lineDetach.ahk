@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance, force ;Avoid multiple thread.
 
 ;~ WinActivate, ahk_class 3DSMAX
-tempStr := "filein ""D:\\stanKey\\key\\ld\\3dsMax\\ms\\lineDetach.ms"""
+tempStr := "filein ""c:\\stankey-master\\key\\ld\\3dsMax\\ms\\lineDetach.ms"""
 Control, EditPaste, %tempStr%, MXS_Scintilla2, ahk_class 3DSMAX
 Sleep, 100
 ControlSend, MXS_Scintilla2, {NumpadEnter}, ahk_class 3DSMAX ;execute pasted code

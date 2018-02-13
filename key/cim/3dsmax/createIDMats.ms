@@ -14,7 +14,7 @@
 	)
 	if tempAns do
 	(
-		if querybox "clean materials?" do filein "D:\\stanKey\\key\\cdm\\3dsMax\\cleanDoubleMat.ms"
+		if querybox "clean materials?" do filein "c:\\stankey-master\\key\\cdm\\3dsMax\\cleanDoubleMat.ms"
 		setCommandPanelTaskMode #create
 		MatEditor.close()
 		case of

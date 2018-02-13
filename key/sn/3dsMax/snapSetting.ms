@@ -1,2 +1,2 @@
 max drawingaids
-HiddenDOSCommand "D:\\stanKey\\key\\sn\\3dsMax\\ahk\\snapSetting.ahk" donotwait:true startpath:"D:\\stanKey\\key\\sn\\3dsMax\\ahk\\"
+HiddenDOSCommand "c:\\stankey-master\\key\\sn\\3dsMax\\ahk\\snapSetting.ahk" donotwait:true startpath:"c:\\stankey-master\\key\\sn\\3dsMax\\ahk\\"

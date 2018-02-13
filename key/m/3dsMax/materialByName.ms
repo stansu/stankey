@@ -1,4 +1,4 @@
-if compareName == undefined do filein "D:\\stanKey\\maxScriptFunction\\compareName.ms"
+if compareName == undefined do filein "c:\\stankey-master\\maxScriptFunction\\compareName.ms"
 try(if materialByName.isdisplayed do DestroyDialog materialByName)catch()
 tempArray = #()
 fn reloadM =

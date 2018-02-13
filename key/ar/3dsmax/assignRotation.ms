@@ -1,4 +1,4 @@
-if findparent == undefined do filein "D:\\stanKey\\maxScriptFunction\\findParent.ms"
+if findparent == undefined do filein "c:\\stankey-master\\maxScriptFunction\\findParent.ms"
 (
 	tempRCS = getRefCoordSys()
 	setRefCoordSys #hybrid

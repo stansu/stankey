@@ -1,6 +1,6 @@
 if compareName == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\compareName.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\compareName.ms"
 )
 if selection.count != 0 then
 (

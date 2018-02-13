@@ -1,5 +1,5 @@
-if compareName == undefined do filein "D:\\stanKey\\maxScriptFunction\\compareName.ms"
-if compareName == undefined do filein "D:\\stanKey\\maxScriptFunction\\compareNameRandom.ms"
+if compareName == undefined do filein "c:\\stankey-master\\maxScriptFunction\\compareName.ms"
+if compareName == undefined do filein "c:\\stankey-master\\maxScriptFunction\\compareNameRandom.ms"
 try(if gradientColor.isdisplayed do DestroyDialog gradientColor)catch()
 tempArray = #()
 rollout gradientColor "gradientColor"

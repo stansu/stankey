@@ -5,9 +5,9 @@
 #UseHook
 SetControlDelay 0
 SetTitleMatchMode, 2
-SetWorkingDir, D:\punchCard
+SetWorkingDir, d:\punchCard
 
-Run, D:\punchCard\punchCard.ahk
+Run, d:\punchCard\punchCard.ahk
 WinWait, ahk_class IEFrame
 MsgBox, 4,, % "Start work routine?"
 IfMsgBox yes
@@ -71,7 +71,7 @@ return
 ::`z::{Esc 2}zoom{enter}all{enter}
 ::`de::erase{enter}
 ::`dt::
-Run, d:\stankey\key\dt\acad\deleteTrashCAD.ahk
+Run, c:\stankey-master\key\dt\acad\deleteTrashCAD.ahk
 return
 
 #If WinActive("stan.ahk")

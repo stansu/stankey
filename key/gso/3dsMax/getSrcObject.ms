@@ -1,10 +1,10 @@
 if compareName == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\compareName.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\compareName.ms"
 )
 if findparent == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\findParent.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\findParent.ms"
 )
 (
 	srcLayer = LayerManager.getLayerFromName "...src"

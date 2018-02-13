@@ -1,6 +1,6 @@
 if findparent == undefined do
 (
-	filein "D:\\stanKey\\maxScriptFunction\\findParent.ms"
+	filein "c:\\stankey-master\\maxScriptFunction\\findParent.ms"
 )
 if selection.count != 0 then
 (

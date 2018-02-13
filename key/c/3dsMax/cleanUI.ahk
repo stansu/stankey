@@ -20,7 +20,7 @@ posY = 126
 {
 	ControlSetText, MXS_Scintilla2, , A
 	Sleep, 100
-	Control, EditPaste, filein "D:\\stanKey\\key\\mf\\3dsMax\\measureFloater.ms"; filein "D:\\stanKey\\key\\so\\3dsMax\\shadowOff.ms"; max display floater; macros.run "Layers" "LayerManager"; max tti; filein "D:\\stanKey\\key\\m\\3dsMax\\materialByName.ms"; filein "D:\\stanKey\\key\\pm\\3dsMax\\passManager.ms", MXS_Scintilla2, A
+	Control, EditPaste, filein "c:\\stankey-master\\key\\mf\\3dsMax\\measureFloater.ms"; filein "c:\\stankey-master\\key\\so\\3dsMax\\shadowOff.ms"; max display floater; macros.run "Layers" "LayerManager"; max tti; filein "c:\\stankey-master\\key\\m\\3dsMax\\materialByName.ms"; filein "c:\\stankey-master\\key\\pm\\3dsMax\\passManager.ms", MXS_Scintilla2, A
 	Sleep, 100
 	ControlSend, MXS_Scintilla2, {NumpadEnter}, A
 	Sleep, 100
