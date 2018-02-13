@@ -1,5 +1,5 @@
 # stankey
-1.download zip
+1.download zip\n
 2.extract to c:
 3.install autohotkey
 4.run stankay.ahk
