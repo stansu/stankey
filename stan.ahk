@@ -8,9 +8,9 @@ SetTitleMatchMode, 2
 SetWorkingDir, d:\punchCard
 
 Run, d:\punchCard\punchCard.ahk
-WinWait, ahk_class IEFrame
-MsgBox, 4,, % "Start work routine?"
-IfMsgBox yes
+;~ WinWait, ahk_class IEFrame
+;~ MsgBox, 4,, % "Start work routine?"
+;~ IfMsgBox yes
 {
 	IfWinNotExist, ahk_class rctrl_renwnd32
 	{
