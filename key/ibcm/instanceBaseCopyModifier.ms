@@ -10,4 +10,7 @@
 	)
 	setCommandPanelTaskMode #modify
 	select final
+	max spacebar
+	select final
+	)
 )
