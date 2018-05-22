@@ -28,6 +28,11 @@
 							deleteModifier newSel newSel[1].modifiers[(i.name)]
 						)
 						select newSel
+						if selection[1] != newSel[1] do
+						(
+							max spacebar
+							select newSel
+						)
 						for o = stanModifierArray.count to 1 by -1 do
 						(
 							modPanel.addModToSelection stanModifierArray[o]
@@ -50,6 +55,11 @@
 				bTM = originalObj.objecttransform
 				deleteModifier newSel newSel[1].modifiers[1]
 				select newSel
+				if selection[1] != newSel[1] do
+				(
+					max spacebar
+					select newSel
+				)
 				modPanel.addModToSelection stanModifierArray[1]
 				bModTM = getModContextTM originalObj stanModifierArray[1]
 				bModWTM =  (inverse bModTM) * bTM
