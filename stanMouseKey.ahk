@@ -7,7 +7,7 @@ CoordMode, ToolTip, Screen
 
 mouseToggle := false
 
-LShift & LWin::
+CapsLock::
 Critical, off
 mouseToggle := not mouseToggle
 ToolTip, %mouseToggle%
@@ -15,15 +15,7 @@ Sleep, 500
 ToolTip
 return
 
-WheelRight::
-Sleep, 200
-send, {WheelRight}
-return
-
-WheelLeft::
-Sleep, 200
-send, {WheelLeft}
-return
++CapsLock::CapsLock
 
 #If not WinExist("stanKey_") and mouseToggle == true
 c::LButton
