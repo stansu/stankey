@@ -4,11 +4,15 @@
 		if o.modifiers["UVW Map"] == undefined then
 		(
 			au = Uvwmap()
+			au.length = 800
+			au.width = 800
+			au.height = 2400
 			addModifier o au
 		)
 		else
 		(
-			au = o.modifiers["UVW Map"]
+			au = copy o.modifiers["UVW Map"]
+			addModifier o au
 		)
 		au.maptype = 4
 		
