@@ -4,4 +4,4 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 settitlematchmode 1
 winwaitclose, stankey
-winset, alwaysontop, on, A
+winset, alwaysontop, Toggle, A
